@@ -1,6 +1,6 @@
 {
 	"name": "@goonco/micromark-extension-ofm",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "A micromark extension to support obsidian flavored markdown syntax",
 	"scripts": {
 		"build": "tsup"
@@ -17,7 +17,6 @@
 		"name": "goonco"
 	},
 	"license": "MIT",
-
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
 	"types": "./dist/index.d.ts",
